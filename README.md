@@ -1,1 +1,1 @@
-# haskell_sandbox
+# sandbox-haskell
